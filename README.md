@@ -1,6 +1,7 @@
 # internet_wizard
 
 <div style="text-align: center;">
+```
         ^        
        /☄\       
       /☼★☆\      
@@ -11,7 +12,7 @@
  Qo|     3   |9P 
  gB\_________/cB
  q%            P%
-
+```
 </div>
 
 Space wizard in-training
