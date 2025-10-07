@@ -1,16 +1,35 @@
-## Hi there 👋
+# internet_wizard
 
-<!--
-**internetwiz4rd/internetwiz4rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="text-align: center;">
+        ^        
+       /☄\       
+      /☼★☆\      
+     /☆☼⚧★☽\     
+------------------
+ %&/ _     _ \@& 
+ o8|   ov    |8o 
+ Qo|     3   |9P 
+ gB\_________/cB
+ q%            P%
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Space wizard in-training
+
+Enthusiastic about:
+
+- FOSS culture and history
+- Nix and NixOS
+- Rust
+- The stars
+- Using lessons from the computing space elsewhere in my life
+- Feeling pretty
+
+Repos:
+
+- [My personal dotfiles, configuring every aspect of my system](https://github.com/internetwiz4rd/dotfiles)
+  - Everything's (mostly) reproducable using Nix
+  - Included is my Neovim config, which you can try out using `nix run 'github:internetwiz4rd/dotfiles?dir=.config/nvim'`!!
+- [My personal site on the indie web, a heavy heavy WIP](https://github.com/internetwiz4rd/wizards-lair)
+  - Hosted on [Neocities](https://neocities.org/), and written completely in Rust using [Leptos](https://leptos.dev/) for some reason
+  - Check out what little I've done at [www.wizardslair.org](www.wizardslair.org)!
