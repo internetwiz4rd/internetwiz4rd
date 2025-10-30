@@ -1,5 +1,3 @@
-# internet_wizard
-
 ```wizard
         ^        
        /☄\       
